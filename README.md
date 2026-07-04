@@ -42,10 +42,10 @@ codigo_datos_clase8/
 
 ## Requisitos y ejecución
 
-Entorno probado: **conda `science`** (Python 3.11, pandas 3.0, matplotlib 3.10).
+Entorno probado: **conda `pln311`** (Python 3.11, pandas 3.0, matplotlib 3.10, spacy 3.8).
 
 ```bash
-conda activate science
+conda activate pln311
 
 # 1) Análisis (script del docente) -> genera salidas_clase8/*.csv
 python analisis_ambiguedad_clase8.py
