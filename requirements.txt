@@ -1,0 +1,7 @@
+# Entorno probado: conda "science" (Python 3.11)
+# El motor de análisis del docente usa solo la biblioteca estándar.
+# Las dependencias siguientes son para el cuaderno documentado y las figuras.
+pandas>=2.0
+matplotlib>=3.7
+jupyter>=1.0
+notebook>=6.5
